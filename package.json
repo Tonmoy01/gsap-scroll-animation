@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-motion-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A production-ready React animation library powered by GSAP ScrollTrigger — fade, slide, scale, parallax, stagger, and text reveal animations with a clean component API.",
   "author": "Tonmoy Khan",
   "license": "MIT",
