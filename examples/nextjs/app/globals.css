@@ -133,6 +133,35 @@ section {
 .btn-primary { background: var(--accent); color: #fff; }
 .btn-ghost   { background: transparent; border: 1px solid var(--border); color: var(--text); }
 
+/* ── npm copy ── */
+.npm-copy {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  padding: 0.6rem 1rem 0.6rem 1.25rem;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-family: monospace;
+  font-size: 0.875rem;
+  transition: border-color 0.2s, background 0.2s;
+}
+.npm-copy:hover {
+  border-color: var(--accent);
+  background: rgba(108,99,255,0.08);
+  color: var(--text);
+}
+.npm-cmd { letter-spacing: 0.01em; }
+.npm-copy-icon {
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
 /* ── Parallax wrapper ── */
 .parallax-container {
   overflow: hidden;
