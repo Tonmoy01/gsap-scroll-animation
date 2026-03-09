@@ -376,4 +376,4 @@ The `prepublishOnly` script runs `type-check` then `build` automatically.
 
 ## License
 
-MIT © Your Name
+MIT © Tonmoy Khan
