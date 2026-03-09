@@ -6,6 +6,8 @@
 [![bundle size](https://img.shields.io/bundlephobia/minzip/react-scroll-motion-kit)](https://bundlephobia.com/package/react-scroll-motion-kit)
 [![license](https://img.shields.io/npm/l/react-scroll-motion-kit)](./LICENSE)
 
+**[Live Demo →](https://gsap-scroll-motion.tonmoykhan.site/)**
+
 ---
 
 ## Overview
@@ -282,7 +284,7 @@ function BackgroundImage() {
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/react-scroll-motion-kit
+git clone https://github.com/Tonmoy01/gsap-scroll-animation
 cd react-scroll-motion-kit
 
 # 2. Install dependencies

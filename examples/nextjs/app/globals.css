@@ -74,6 +74,12 @@ section {
   border-radius: var(--radius);
   padding: 2rem;
   width: 100%;
+  overflow: hidden;
+}
+
+.card h3 {
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .card-grid {
