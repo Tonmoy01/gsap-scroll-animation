@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonmoykhan/react-scroll-motion-kit"
+    "url": "https://github.com/Tonmoy01/gsap-scroll-animation"
   },
-  "homepage": "https://github.com/tonmoykhan/react-scroll-motion-kit#readme",
+  "homepage": "https://github.com/Tonmoy01/gsap-scroll-animation#readme",
   "bugs": {
-    "url": "https://github.com/tonmoykhan/react-scroll-motion-kit/issues"
+    "url": "https://github.com/Tonmoy01/gsap-scroll-animation/issues"
   },
   "keywords": [
     "react",
